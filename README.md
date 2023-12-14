@@ -17,4 +17,7 @@
 
 - Array Index: this are numbers given to the elements in an array, starting from 0. The elements can be accessed using their index numbers.
 
-2. Javascript Functions: A javascript function is a block of code that performs a particular task. You have the "function" keyword first, followed by a "name" and then the parentheses (). The function name can
+2. Javascript Functions: A javascript function is a block of code that performs a particular task. You have the "function" keyword first, followed by a "name" and then the parentheses (). The code to be executed is placed inside curly brackets {}.
+
+- The function name can contain letters, digits, underscores and dollar signs.
+- The parentheses may include parameter names separated by commas.
